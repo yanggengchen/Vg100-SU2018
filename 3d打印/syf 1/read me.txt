@@ -1,0 +1,9 @@
+Numbers of pieces that need to be printed:
+10mm connection part: 12
+10mm wheel connection: 4
+12mm connection part: 4
+12mm single side connection: 4
+spring connection part: 4
+
+
+Email address: yanggengchen@sjtu.edu.cn
